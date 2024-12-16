@@ -1,4 +1,4 @@
-# Marketing-Analytics-CSUEastBay
+# Marketing Analytics at CSUEastBay
 ### Welcome to My Digital Marketing Analytics Repository!
 
 Hi there! 👋
