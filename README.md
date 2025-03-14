@@ -27,4 +27,4 @@ Thank you for visiting, and I hope you find my projects insightful! 🚀📊
 * **Visualization & Storytelling** – Communicating insights effectively using dashboards and reports.
 
 ##### _Disclaimer_
-_This repository contains academic assignments and projects completed as part of my coursework. The analyses and insights presented are for educational purposes and may not reflect real-world business implementations._
+_This repository contains academic assignments and projects completed as part of my college coursework. The analyses and insights presented are for educational purposes and do not reflect real-world business implementations._
