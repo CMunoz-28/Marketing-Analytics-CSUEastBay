@@ -2,7 +2,7 @@
 
 Hi there! 👋
 
-Welcome to My Marketing Analytics Repository!
+Welcome to my Marketing Analytics Repository!
 
 This repository showcases my work from the Master of Science in Marketing Analytics at California State University, East Bay. It reflects my journey in applying data-driven strategies to solve real-world marketing challenges.
 
