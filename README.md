@@ -11,4 +11,4 @@ Marketing analytics continuously evolves, and I am excited to keep exploring new
 Thank you for visiting, and I hope you find my projects insightful! 🚀📊
 
 ##### _Disclaimer_
-_This repository contains academic assignments and projects completed as part of my college coursework. The analyses and insights presented are for educational purposes and do not reflect real-world business implementations._
+_This repository contains academic assignments and projects completed as part of my college coursework. The analyses and insights presented are for educational purposes and reflect real-world business implementations.
