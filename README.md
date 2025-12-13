@@ -10,7 +10,7 @@ Marketing analytics is a continuously evolving discipline. This repository repre
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 Each folder corresponds to a core course or specialization area within the program:
 
@@ -45,7 +45,7 @@ Each folder includes structured documentation, analysis workflows, and visual ou
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 Throughout the program, I worked with a broad analytics and marketing technology stack, including:
 
@@ -76,7 +76,7 @@ Throughout the program, I worked with a broad analytics and marketing technology
 
 ---
 
-## 📊 Skills Demonstrated
+## Skills Demonstrated
 
 This repository highlights applied experience in:
 
@@ -103,7 +103,7 @@ This repository highlights applied experience in:
 
 ---
 
-## 🎯 Purpose of This Repository
+## Purpose of This Repository
 
 This repository serves as:
 
