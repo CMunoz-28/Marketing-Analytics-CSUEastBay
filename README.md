@@ -26,9 +26,6 @@ Each folder corresponds to a core course or specialization area within the progr
 * **Market Research:**
   Survey design, SPSS analysis, hypothesis testing, factor analysis, regression, and consumer insight generation.
 
-* **Market Research:**
-  Advanced research project integrating primary research, statistical modeling, and strategic interpretation.
-
 * **Marketing Analytics:**
   Core analytical techniques including exploratory data analysis (EDA), regression, classification, segmentation, and performance measurement.
 
