@@ -120,16 +120,3 @@ This repository serves as:
 
 *This repository contains academic projects completed as part of graduate coursework.*
 *All analyses and insights are provided for **educational purposes only** and do not represent proprietary, confidential, or real-world business data.*
-
----
-
-### 🔜 Optional Next Up (Highly Recommended)
-
-If you want, I can help you:
-
-* Create a **standard README template for each folder**
-* Add a **Projects Overview table** (course → methods → tools → outputs)
-* Write a **LinkedIn post** announcing this repository professionally
-* Optimize this repo for **marketing analytics & data analyst recruiters**
-
-Just tell me what you want to tackle next 👍
