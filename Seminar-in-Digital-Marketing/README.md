@@ -1,4 +1,6 @@
-# Seminar in Digital Marketing – Advanced Analytics & Optimization
+# Seminar in Digital Marketing
+
+**Advanced Analytics, Regression & Optimization**
 
 **Course:** Seminar in Digital Marketing
 
@@ -10,107 +12,128 @@
 
 ## Course Overview
 
-This folder contains advanced analytical projects completed as part of the **Seminar in Digital Marketing**, with a focus on **regression modeling, optimization techniques, and data-driven decision-making** for digital marketing performance.
+This folder contains advanced analytical projects completed as part of the **Seminar in Digital Marketing**, with an emphasis on applying **quantitative modeling and optimization techniques** to real-world digital marketing decisions.
 
-Projects emphasize how quantitative methods can be applied to optimize key marketing outcomes such as **clicks, conversions, revenue, and profit** across digital channels.
+The work demonstrates how **regression analysis and optimization frameworks** can be used to predict performance, allocate resources, and maximize key marketing outcomes such as **clicks, conversions, revenue, and profit**.
 
 ---
 
-## Analytical Objectives
+## Analytical Focus Areas
 
-Across the seminar projects, the objectives include:
+Projects in this seminar address the following objectives:
 
-* Modeling relationships between marketing inputs and performance outcomes
-* Applying regression analysis to predict clicks and conversions
-* Using optimization techniques to allocate resources efficiently
-* Translating analytical results into actionable marketing decisions
+* Model relationships between marketing inputs and performance outcomes
+* Predict digital marketing KPIs using regression analysis
+* Optimize marketing decisions under constraints
+* Evaluate trade-offs between competing objectives
+* Translate analytical results into actionable business insights
 
 ---
 
 ## Project Architecture
 
-The seminar work is organized by **analytical technique**, separating **regression modeling** from **optimization-based decision analysis** to ensure clarity and reproducibility.
+The seminar projects are organized by **analytical method**, following a structure commonly used in professional analytics and marketing operations teams.
 
 ```
 Seminar-in-Digital-Marketing/
-├── Regression/
-│   ├── Regression for Clicks.xlsx
-│   └── Regression for Conversions.xlsx
+├── regression/
+│   ├── data/
+│   │   └── regression_inputs.xlsx
+│   │
+│   ├── analysis/
+│   │   ├── regression_clicks.xlsx
+│   │   └── regression_conversions.xlsx
+│   │
+│   └── README.md
 │
-├── Solver Optimization/
-│   ├── optimize for Clicks.xlsx
-│   ├── optimize for Conversions.xlsx
-│   ├── optimize for Profits.xlsx
-│   ├── optimize for Revenue.xlsx
-│   ├── optimize_ConversionRate_BUHI.ipynb
-│   ├── optimize_for_Profit.ipynb
-│   ├── optimize_for_Revenue_BUHI.ipynb
-│   └── stukent_optimizefor_clicks_BUHI.ipynb
+├── optimization/
+│   ├── data/
+│   │   └── optimization_inputs.xlsx
+│   │
+│   ├── excel/
+│   │   ├── optimize_clicks.xlsx
+│   │   ├── optimize_conversions.xlsx
+│   │   ├── optimize_profit.xlsx
+│   │   └── optimize_revenue.xlsx
+│   │
+│   ├── notebooks/
+│   │   ├── optimize_clicks_stukent_buhi.ipynb
+│   │   ├── optimize_conversion_rate_buhi.ipynb
+│   │   ├── optimize_profit.ipynb
+│   │   └── optimize_revenue_buhi.ipynb
+│   │
+│   └── README.md
 │
-├── simternship Digital Marketing Analytics Dashboard.pdf
+├── dashboards/
+│   └── simternship_digital_marketing_dashboard.pdf
+│
+├── assets/
+│   └── figures/
 │
 └── README.md
 ```
 
 ---
 
-### Folder Descriptions
+### Architecture Rationale
 
 * **Regression/**
-  Excel-based regression models analyzing the relationship between marketing variables and performance outcomes such as clicks and conversions.
+  Focuses on predictive modeling to estimate the impact of marketing variables on outcomes such as clicks and conversions.
 
-* **Solver Optimization/**
-  Optimization models implemented in Excel and Python to maximize marketing objectives (clicks, conversions, revenue, profit) under defined constraints.
+* **Optimization/**
+  Applies constraint-based optimization to determine how marketing resources should be allocated to maximize performance metrics.
 
-* **Simternship Digital Marketing Analytics Dashboard.pdf**
-  A capstone-style dashboard summarizing digital marketing performance insights from a simulated internship experience.
+* **Dashboards/**
+  Contains decision-facing visual summaries used to communicate insights and results.
 
-* **README.md**
-  Documentation describing course scope, methodologies, and analytical outcomes.
+* **Assets/**
+  Stores exported charts and figures used in reporting and documentation.
+
+This structure emphasizes **reproducibility, clarity, and scalability**.
 
 ---
 
-## Methodology & Analysis
+## Methodology & Techniques
 
-Key analytical methods applied include:
+Across the seminar projects, the following methods were applied:
 
 * Linear and multivariate regression modeling
-* Interpretation of model coefficients and performance metrics
-* Optimization using constraint-based solvers
-* Scenario analysis for marketing budget and resource allocation
-* Comparative evaluation of optimization objectives
+* Interpretation of coefficients and model performance metrics
+* Optimization using solver-based and programmatic approaches
+* Scenario analysis and objective comparison
+* KPI-driven decision modeling
 
 ---
 
 ## Tools & Technologies
 
-* **Excel:** Regression analysis and Solver optimization
-* **Python:** Jupyter notebooks for optimization modeling
+* **Excel:** Regression modeling and Solver optimization
+* **Python:** Optimization modeling using Jupyter notebooks
 * **Jupyter Notebook:** Analytical workflows and documentation
 
 ---
 
-## Key Insights & Learning Outcomes
+## Key Learning Outcomes
 
-* Demonstrated how regression models can predict digital marketing performance
+* Developed predictive models for digital marketing KPIs
 * Applied optimization techniques to maximize marketing objectives
-* Evaluated trade-offs between competing goals (e.g., clicks vs. profit)
-* Strengthened ability to translate analytical outputs into strategic recommendations
+* Evaluated trade-offs between clicks, conversions, revenue, and profit
+* Strengthened ability to translate quantitative results into strategic decisions
 
 ---
 
-## Marketing Implications
+## Marketing & Business Implications
 
-Insights from these projects can support:
+Insights from this work demonstrate how advanced analytics can support:
 
-* More efficient marketing budget allocation
+* Efficient marketing budget allocation
+* Performance forecasting and planning
 * KPI-driven campaign optimization
-* Data-informed decision-making in digital strategy
-* Performance forecasting and scenario planning
+* Data-informed strategic decision-making
 
 ---
 
 ## 📌 Disclaimer
 
 *These projects were completed for academic purposes as part of graduate coursework.*
-*All datasets, analyses, and simulations are intended for educational use only and do not represent real-world business performance.*
+*All analyses, datasets, and simulations are intended solely for educational use and do not represent real-world business outcomes.*
