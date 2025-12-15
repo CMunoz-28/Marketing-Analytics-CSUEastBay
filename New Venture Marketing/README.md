@@ -1,7 +1,9 @@
 # New Venture Marketing – Conjoint Analysis Project
 
 **Course:** New Venture Marketing
+
 **Program:** Master of Science in Marketing Analytics
+
 **Institution:** California State University, East Bay
 
 ---
