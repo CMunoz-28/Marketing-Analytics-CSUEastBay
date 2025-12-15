@@ -1,75 +1,113 @@
-# 🚀 New Venture Marketing – Market Research Analysis
+# New Venture Marketing – Conjoint Analysis Project
 
-**Course:** New Venture Marketing  
-**Program:** Master of Science in Marketing Analytics  
-**Institution:** California State University, East Bay  
-
----
-
-## 📌 Project Overview
-
-This project focuses on **market research and survey analysis** conducted to support new venture evaluation and opportunity assessment. The analysis applies quantitative techniques to understand customer needs, preferences, and potential demand for a proposed venture concept.
-
-The objective is to demonstrate how **data-driven insights** can inform early-stage business decisions, including market fit, positioning, and strategic direction.
+**Course:** New Venture Marketing
+**Program:** Master of Science in Marketing Analytics
+**Institution:** California State University, East Bay
 
 ---
 
-## 🎯 Research Objectives
+## Project Overview
 
-- Analyze survey data to identify customer needs and preferences  
-- Evaluate market demand and potential adoption signals  
-- Support new venture decision-making with empirical evidence  
-- Translate research findings into strategic insights  
+This project applies **conjoint analysis** to support **new venture decision-making** by quantifying customer preferences across multiple product attributes. The objective is to evaluate how different feature combinations influence consumer choice and to identify configurations that maximize perceived value and market appeal.
 
----
-
-## 📂 Data Description
-
-- **Data Type:** Survey-based market research data  
-- **Source:** Academic / simulated / anonymized survey responses  
-- **Variables:** Demographic, attitudinal, and preference-based measures  
-
-_All data used in this project is anonymized and intended for academic purposes only._
+The analysis demonstrates how **data-driven insights** can inform early-stage product design, pricing considerations, and positioning strategies for a new venture.
 
 ---
 
-## 🧠 Methodology & Analysis
+## Research Objectives
 
-- Data cleaning and preparation  
-- Exploratory data analysis (EDA)  
-- Descriptive statistics and cross-tab analysis  
-- Visualization of key market trends and insights  
-
-Analysis was conducted using Python within a Jupyter Notebook environment.
+* Identify the relative importance of product attributes
+* Estimate customer utility for different attribute levels
+* Evaluate preferred product configurations
+* Translate analytical findings into actionable venture insights
 
 ---
 
-## 🛠 Tools & Technologies
+## Project Architecture
 
-- **Python:** Pandas, NumPy, Matplotlib / Seaborn  
-- **Jupyter Notebook**
+```
+New Venture Marketing/
+├── Data/
+│   ├── raw.xlsx              # Original conjoint survey data
+│   └── processed.xlsx        # Cleaned and transformed dataset
+│
+├── Notebooks/
+│   └── conjoint_analysis.ipynb
+│
+├── Outputs/
+│   └── Findings.xlsx         # Summary tables and results
+│
+└── README.md
+```
 
 ---
 
-## 📊 Key Insights
+## Data Description
 
-- Identified customer segments with stronger interest in the venture concept  
-- Highlighted key preferences influencing potential adoption  
-- Provided data-backed insights to inform venture positioning  
+* **Data Type:** Conjoint survey data
+* **Raw Data:** Original survey responses prior to cleaning
+* **Processed Data:** Prepared dataset used for modeling and analysis
+* **Outputs:** Aggregated findings and analytical summaries
+
+All data has been anonymized and is used strictly for academic purposes.
 
 ---
 
-## 💡 Venture Implications
+## Methodology & Analysis
 
-Findings from this analysis can be used to:
-- Refine the value proposition  
-- Validate or challenge initial venture assumptions  
-- Inform go-to-market and targeting strategies  
-- Support pitch decks and business case development  
+The analysis followed a structured conjoint workflow:
+
+1. **Data Preparation**
+
+   * Data cleaning and validation
+   * Encoding of attributes and levels
+
+2. **Conjoint Analysis**
+
+   * Estimation of part-worth utilities
+   * Calculation of attribute importance scores
+
+3. **Result Interpretation**
+
+   * Identification of high-value feature combinations
+   * Evaluation of trade-offs between attributes
+
+4. **Reporting**
+
+   * Export of summarized findings and tables for decision-making
+
+---
+
+## Tools & Technologies
+
+* **Python:** Pandas, NumPy
+* **Jupyter Notebook:** Analytical workflow and modeling
+* **Excel:** Data preparation and output reporting
+
+---
+
+## Key Insights & Findings
+
+* Quantified the relative importance of key product attributes
+* Identified feature combinations most likely to drive customer preference
+* Provided data-backed recommendations to inform venture product strategy
+
+(See `Outputs/Findings.xlsx` for detailed results.)
+
+---
+
+## Venture Implications
+
+Insights from this analysis can be used to:
+
+* Inform product feature prioritization
+* Support pricing and bundling decisions
+* Guide go-to-market and positioning strategies
+* Strengthen venture pitches with empirical evidence
 
 ---
 
 ## 📌 Disclaimer
 
-_This project was completed for academic purposes._  
-_All analyses and insights are for educational use only and do not represent real-world business outcomes._
+*This project was completed for academic purposes as part of graduate coursework.*
+*All analyses, datasets, and findings are for educational use only and do not represent real-world business outcomes.*
