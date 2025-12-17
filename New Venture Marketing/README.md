@@ -1,3 +1,8 @@
+![Conjoint](https://img.shields.io/badge/Method-Conjoint%20Analysis-purple)
+![Market%20Research](https://img.shields.io/badge/Market-Research-blue)
+![Python](https://img.shields.io/badge/Python-Analysis-blue?logo=python)
+![Excel](https://img.shields.io/badge/Excel-Insights-green?logo=microsoft-excel)
+
 # New Venture Marketing – Conjoint Analysis Project
 
 **Course:** New Venture Marketing
