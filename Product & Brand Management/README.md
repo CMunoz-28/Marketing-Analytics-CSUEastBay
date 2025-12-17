@@ -1,3 +1,8 @@
+![Product%20Strategy](https://img.shields.io/badge/Product-Strategy-blue)
+![Brand](https://img.shields.io/badge/Brand-Positioning-purple)
+![Figma](https://img.shields.io/badge/Figma-Product%20Mockup-black?logo=figma)
+![Survey](https://img.shields.io/badge/Survey-Consumer%20Insights-green)
+
 # Product & Brand Management – SnackPassport Concept
 
 **Course:** Product & Brand Management  
