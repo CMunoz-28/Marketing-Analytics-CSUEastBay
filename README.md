@@ -1,3 +1,12 @@
+![Python](https://img.shields.io/badge/Python-Analytics-blue?logo=python)
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green?logo=microsoft-excel)
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-orange?logo=tableau)
+![SPSS](https://img.shields.io/badge/SPSS-Statistical%20Analysis-purple)
+![Figma](https://img.shields.io/badge/Figma-Product%20Design-black?logo=figma)
+![Capstone](https://img.shields.io/badge/Capstone-End--to--End%20Analytics-success)
+![Graduate](https://img.shields.io/badge/Graduate%20Program-Marketing%20Analytics-blue)
+![CSU%20East%20Bay](https://img.shields.io/badge/CSU%20East%20Bay-MS%20Marketing%20Analytics-lightblue)
+
 # Master of Science in Marketing Analytics
 
 **California State University, East Bay**
