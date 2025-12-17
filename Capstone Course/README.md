@@ -1,4 +1,10 @@
-# 📊 Marketing Analytics Capstone Project
+![Python](https://img.shields.io/badge/Python-Modeling-blue?logo=python)
+![Logistic%20Regression](https://img.shields.io/badge/Model-Logistic%20Regression-purple)
+![AUC](https://img.shields.io/badge/Performance-AUC%200.81-success)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange?logo=tableau)
+![Excel](https://img.shields.io/badge/Excel-Scenario%20Analysis-green?logo=microsoft-excel)
+
+# Marketing Analytics Capstone Project
 
 **Customer Churn Prediction & Strategic Retention Insights**
 
