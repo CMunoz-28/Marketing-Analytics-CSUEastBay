@@ -1,3 +1,9 @@
+![Regression](https://img.shields.io/badge/Method-Regression-purple)
+![Optimization](https://img.shields.io/badge/Method-Optimization-blue)
+![Excel](https://img.shields.io/badge/Excel-Solver-green?logo=microsoft-excel)
+![Python](https://img.shields.io/badge/Python-Optimization-blue?logo=python)
+![Decision%20Modeling](https://img.shields.io/badge/Decision-Modeling-orange)
+
 # Seminar in Digital Marketing
 
 **Advanced Analytics, Regression & Optimization**
