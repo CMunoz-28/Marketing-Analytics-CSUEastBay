@@ -1,4 +1,10 @@
-# 📊 Digital Media Analytics Projects
+![Excel](https://img.shields.io/badge/Excel-Campaign%20Analysis-green?logo=microsoft-excel)
+![Python](https://img.shields.io/badge/Python-Marketing%20Math-blue?logo=python)
+![GA4](https://img.shields.io/badge/GA4-Digital%20Analytics-red?logo=googleanalytics)
+![SEO](https://img.shields.io/badge/SEO-Keyword%20Research-lightgrey)
+![Paid%20Media](https://img.shields.io/badge/Paid%20Media-Performance%20Analysis-orange)
+
+# Digital Media Analytics Projects
 
 **Course:** Digital Media Analytics 
 
@@ -8,7 +14,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 This folder contains projects focused on **measuring, evaluating, and optimizing digital marketing performance** across paid media, email, search, and social platforms. The analyses emphasize translating performance metrics into **actionable marketing insights** to support campaign optimization and strategic decision-making.
 
@@ -16,7 +22,7 @@ Projects in this folder apply **descriptive analytics, trend analysis, and KPI e
 
 ---
 
-## 🎯 Analytical Objectives
+## Analytical Objectives
 
 Across these projects, the primary objectives include:
 
@@ -28,7 +34,7 @@ Across these projects, the primary objectives include:
 
 ---
 
-## 📂 Project Architecture
+## Project Architecture
 
 ```
 Digital Media Analytics/
@@ -46,7 +52,7 @@ Digital Media Analytics/
 
 ---
 
-### 📁 File Descriptions
+### File Descriptions
 
 * **Ads_banners.xlsx**
   Analysis of digital banner performance metrics such as impressions, clicks, CTR, and engagement.
@@ -68,7 +74,7 @@ Digital Media Analytics/
 
 ---
 
-## 🧠 Methodology & Analysis
+## Methodology & Analysis
 
 Methods applied across these projects include:
 
@@ -80,7 +86,7 @@ Methods applied across these projects include:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 * **Excel:** Campaign analysis, KPI calculations, summary tables
 * **Python:** Jupyter notebooks for digital marketing math and analysis
@@ -88,7 +94,7 @@ Methods applied across these projects include:
 
 ---
 
-## 📊 Key Insights & Learning Outcomes
+## Key Insights & Learning Outcomes
 
 * Identified performance differences across digital channels and formats
 * Evaluated effectiveness of paid social and display advertising
@@ -98,7 +104,7 @@ Methods applied across these projects include:
 
 ---
 
-## 💡 Marketing Implications
+## Marketing Implications
 
 Insights from these projects can support:
 
