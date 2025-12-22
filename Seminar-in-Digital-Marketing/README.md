@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-Optimization-blue?logo=python)
 ![Decision%20Modeling](https://img.shields.io/badge/Decision-Modeling-orange)
 
-# Seminar in Digital Marketing
+# 📊 Seminar in Digital Marketing
 
 **Advanced Analytics, Regression & Optimization**
 
