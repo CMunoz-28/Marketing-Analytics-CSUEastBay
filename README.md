@@ -1,56 +1,49 @@
-![Python](https://img.shields.io/badge/Python-Analytics-blue?logo=python)
-![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green?logo=microsoft-excel)
-![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-orange?logo=tableau)
-![SPSS](https://img.shields.io/badge/SPSS-Statistical%20Analysis-purple)
-![Figma](https://img.shields.io/badge/Figma-Product%20Design-black?logo=figma)
-![Capstone](https://img.shields.io/badge/Capstone-End--to--End%20Analytics-success)
-![Graduate](https://img.shields.io/badge/Graduate%20Program-Marketing%20Analytics-blue)
-![CSU%20East%20Bay](https://img.shields.io/badge/CSU%20East%20Bay-MS%20Marketing%20Analytics-lightblue)
+![Role](https://img.shields.io/badge/Role-Marketing%20Analyst-blue)
+![Focus](https://img.shields.io/badge/Focus-Data--Driven%20Marketing-purple)
+![Analytics](https://img.shields.io/badge/Analytics-End--to--End%20Analysis-success)
+![Tools](https://img.shields.io/badge/Tools-Python%20%7C%20SQL%20%7C%20Tableau-lightgrey)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
-# Master of Science in Marketing Analytics
-
+# 🎓 Master of Science in Marketing Analytics  
 **California State University, East Bay**
 
-👋 Welcome to my **Marketing Analytics Graduate Portfolio Repository**.
+---
 
-This repository contains academic projects completed as part of the **Master of Science in Marketing Analytics** program at **California State University, East Bay**. It reflects my experience applying **quantitative analysis, market research methods, and data-driven decision-making** to real-world marketing problems across digital, mobile, product, and strategic contexts.
+## Overview
 
-Marketing analytics is a continuously evolving discipline. This repository represents both my **technical foundation** and my growing interest in **AI-driven marketing, customer intelligence, and advanced analytical strategy**.
+This repository showcases applied analytical work completed as part of my **Master of Science in Marketing Analytics** at **California State University, East Bay**. The projects emphasize how data is used to **evaluate marketing performance, understand customer behavior, and support strategic decision-making**.
+
+The work reflects an **end-to-end marketing analyst workflow**, from data preparation and exploratory analysis to modeling, visualization, and insight communication.
+
+---
+
+## Program Focus
+
+The curriculum emphasized practical, industry-relevant analytics, including:
+
+- Marketing performance measurement and KPI analysis  
+- Customer segmentation and behavioral insights  
+- Predictive modeling and churn analysis  
+- Experimental thinking and scenario analysis  
+- Data visualization and executive-ready reporting  
+
+Projects were designed to mirror **real-world analyst responsibilities**, not theoretical exercises.
 
 ---
 
 ## Repository Structure
 
-Each folder corresponds to a core course or specialization area within the program:
+```text
+├── Digital Media Analytics
+├── Mobile Marketing & AI
+├── New Venture Marketing
+├── Product & Brand Management
+├── Seminar in Digital Marketing
+└── Capstone Project
 
-* **Capstone Course:**
-  End-to-end analytics project integrating data preparation, exploratory analysis, predictive modeling, and strategic recommendations.
+```
 
-* **Data Visualization:**
-  Dashboard development, KPI reporting, and visual storytelling using Tableau, Power BI, and Excel to support managerial decision-making.
-
-* **Digital Media Analytics:**
-  Social media analytics, digital campaign performance, engagement metrics, attribution analysis, and optimization insights.
-
-* **Market Research:**
-  Survey design, SPSS analysis, hypothesis testing, factor analysis, regression, and consumer insight generation.
-
-* **Marketing Analytics:**
-  Core analytical techniques including exploratory data analysis (EDA), regression, classification, segmentation, and performance measurement.
-
-* **Mobile Marketing & AI:**
-  Mobile advertising strategies, personalization models, and AI-supported campaign analysis.
-
-* **New Venture Marketing:**
-  Business case studies, venture evaluation, market opportunity analysis, and go-to-market strategy development.
-
-* **Product & Brand Management:**
-  Consumer behavior analysis, brand positioning, product strategy, and data-informed decision frameworks.
-
-* **Seminar in Digital Marketing**
-  Advanced analytics applications, industry-focused research, presentations, and strategic discussions.
-
-Each folder includes structured documentation, analysis workflows, and visual outputs to ensure clarity, rigor, and reproducibility.
+Each folder contains project-specific analyses, documentation, and visual outputs, along with individual README files describing objectives, methods, and insights.
 
 ---
 
@@ -89,25 +82,19 @@ Throughout the program, I worked with a broad analytics and marketing technology
 
 This repository highlights applied experience in:
 
-* **Data Cleaning & Preparation**
+* **Data Cleaning & Preparation:**
   Data validation, transformation, and quality assurance.
-
-* **Exploratory Data Analysis (EDA)**
+* **Exploratory Data Analysis (EDA):**
   Identifying patterns, trends, anomalies, and actionable insights.
-
-* **Statistical & Predictive Modeling**
+* **Statistical & Predictive Modeling:**
   Regression, classification, clustering, and model evaluation.
-
-* **Market Research & Survey Analysis**
+* **Market Research & Survey Analysis:**
   Hypothesis testing, SPSS-based analysis, and insight synthesis.
-
-* **Campaign & Performance Analytics**
+* **Campaign & Performance Analytics:**
   ROI measurement, attribution modeling, and A/B testing.
-
-* **Customer Intelligence**
+* **Customer Intelligence:**
   Segmentation, persona development, and behavioral analysis.
-
-* **Strategic Marketing Insights**
+* **Strategic Marketing Insights:**
   Translating analytical results into business and marketing recommendations.
 
 ---
