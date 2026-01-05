@@ -9,7 +9,9 @@
 **Customer Churn Prediction & Strategic Retention Insights**
 
 **Course:** Marketing Analytics Capstone
+
 **Program:** Master of Science in Marketing Analytics
+
 **Institution:** California State University, East Bay
 
 ---
