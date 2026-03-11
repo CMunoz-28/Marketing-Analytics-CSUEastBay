@@ -208,8 +208,11 @@ The findings demonstrate how **data-driven market research** can guide brand str
 
 ---
 
-# Disclaimer
+# 📌 Disclaimer
 
-*This research project was completed as part of a graduate Market Research course.*
+This project was completed as part of a graduate Market Research course within the Master of Science in Marketing Analytics program at California State University, East Bay.
 
-*All brand names, data, and insights are used for academic analysis and portfolio demonstration purposes only.*
+AthleticCo. is a fictional mock brand created solely for academic and analytical purposes.
+The research design, data analysis, and strategic recommendations were developed as part of a classroom exercise intended to simulate a real-world market research engagement.
+
+All survey responses, analyses, and findings are presented for educational and portfolio demonstration purposes only and do not represent actual business data or commercial research conducted for a real organization.
