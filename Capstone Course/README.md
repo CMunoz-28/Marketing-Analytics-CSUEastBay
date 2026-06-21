@@ -94,6 +94,14 @@ These findings highlight the importance of contract structure, customer tenure, 
 
 ---
 
+## 📊 Live Dashboard
+
+**[Telecommunications Churn Dashboard →](https://public.tableau.com/app/profile/cmunoz/viz/TelecommunicationsChurnDashboard_17648231204080/Dashboard)**
+
+Interactive Tableau dashboard covering churn rate by demographics, contract type, subscribed services, payment method, and customer lifetime value — built directly from this project's analysis.
+
+---
+
 ## Deliverables
 
 * Python notebooks documenting EDA and predictive modeling
