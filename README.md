@@ -17,6 +17,15 @@ The work reflects an **end-to-end marketing analyst workflow**, from data prepar
 
 ---
 
+## Featured Work
+
+### [Capstone — Customer Churn Prediction](./Capstone%20Course)
+Built a logistic regression model on ~7,000 customer records to predict churn, achieving an **AUC of 0.81**. Identified contract type, tenure, and billing behavior as primary churn drivers. Delivered Python notebooks, Excel scenario analysis, and an interactive Tableau dashboard.
+
+**[View Live Dashboard →](https://public.tableau.com/app/profile/cmunoz/viz/TelecommunicationsChurnDashboard_17648231204080/Dashboard)**
+
+---
+
 ## Program Focus
 
 The curriculum emphasized practical, industry-relevant analytics, including:
@@ -34,13 +43,13 @@ Projects were designed to mirror **real-world analyst responsibilities**, not th
 ## Repository Structure
 
 ```text
-├── Digital Media Analytics
-├── Mobile Marketing & AI
-├── New Venture Marketing
-├── Product & Brand Management
-├── Seminar in Digital Marketing
-└── Capstone Project
-
+├── Capstone Course          — Churn prediction model, EDA, Tableau dashboard
+├── Digital Media Analytics  — Paid media, GA4, SEO, and campaign performance
+├── Market Research          — Consumer survey, NPS, SPSS analysis
+├── Mobile Marketing & AI    — UI concept design, personalization strategy
+├── New Venture Marketing    — Conjoint analysis, product-market fit
+├── Product & Brand Management — Brand positioning, SnackPassport concept
+└── Seminar in Digital Marketing — Regression, optimization, decision modeling
 ```
 
 Each folder contains project-specific analyses, documentation, and visual outputs, along with individual README files describing objectives, methods, and insights.
@@ -96,16 +105,6 @@ This repository highlights applied experience in:
   Segmentation, persona development, and behavioral analysis.
 * **Strategic Marketing Insights:**
   Translating analytical results into business and marketing recommendations.
-
----
-
-## Purpose of This Repository
-
-This repository serves as:
-
-* A **graduate-level analytics portfolio**
-* A **record of applied market research and analytical methods**
-* A **foundation for continued exploration** in AI-driven marketing and advanced customer analytics
 
 ---
 
