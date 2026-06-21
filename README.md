@@ -109,13 +109,15 @@ This repository serves as:
 
 ---
 
-## 📊 Tableau Dashboard
+## 📊 Tableau Dashboards
 
-The marketing performance analysis in this repo is visualized in a live Tableau dashboard:
+Live dashboards built as part of this program:
+
+**[Telecommunications Churn Dashboard →](https://public.tableau.com/app/profile/cmunoz/viz/TelecommunicationsChurnDashboard_17648231204080/Dashboard)**
+Capstone project — churn analysis across 1,869 telecom customers covering demographics, contract type, subscribed services, payment method, and customer lifetime value.
 
 **[Digital Marketing Dashboard — Buhi Supply Co. →](https://public.tableau.com/app/profile/cmunoz/viz/DigitalMarketingDashboard-BuhiSupplyCo_/Dashboard)**
-
-Covers campaign revenue, clicks, conversions, CPC trends, and ROI by channel — built to reflect real-world marketing analyst reporting.
+Campaign performance dashboard tracking revenue, clicks, conversions, CPC trends, and ROI by channel.
 
 ---
 
