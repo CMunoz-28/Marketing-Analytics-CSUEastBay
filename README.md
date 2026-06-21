@@ -109,6 +109,16 @@ This repository serves as:
 
 ---
 
+## 📊 Tableau Dashboard
+
+The marketing performance analysis in this repo is visualized in a live Tableau dashboard:
+
+**[Digital Marketing Dashboard — Buhi Supply Co. →](https://public.tableau.com/app/profile/cmunoz/viz/DigitalMarketingDashboard-BuhiSupplyCo_/Dashboard)**
+
+Covers campaign revenue, clicks, conversions, CPC trends, and ROI by channel — built to reflect real-world marketing analyst reporting.
+
+---
+
 ## 📌 Disclaimer
 
 *This repository contains academic projects completed as part of graduate coursework.*
