@@ -40,4 +40,4 @@ The selected brand was **Duo Mobile**, used strictly as a **case example for aca
   Conceptual mobile UI mockup illustrating proposed interface changes and user flows.
 
 - **PDF Presentation**  
-  Documentation outlining the design rationale, user experience considerations,
+  Documentation outlining the design rationale, user experience considerations, and mobile marketing implications of the proposed redesign.

@@ -42,39 +42,33 @@ The seminar projects are organized by **analytical method**, following a structu
 
 ```
 Seminar-in-Digital-Marketing/
-├── regression/
-│   ├── data/
-│   │   └── regression_inputs.xlsx
+├── Regression/
+│   ├── Data/
+│   │   └── raw.xlsx
 │   │
-│   ├── analysis/
+│   ├── Analysis/
 │   │   ├── regression_clicks.xlsx
 │   │   └── regression_conversions.xlsx
 │   │
 │   └── README.md
 │
 ├── optimization/
-│   ├── data/
-│   │   └── optimization_inputs.xlsx
-│   │
 │   ├── excel/
 │   │   ├── optimize_clicks.xlsx
 │   │   ├── optimize_conversions.xlsx
 │   │   ├── optimize_profit.xlsx
 │   │   └── optimize_revenue.xlsx
 │   │
-│   ├── notebooks/
-│   │   ├── optimize_clicks_stukent_buhi.ipynb
-│   │   ├── optimize_conversion_rate_buhi.ipynb
-│   │   ├── optimize_profit.ipynb
-│   │   └── optimize_revenue_buhi.ipynb
-│   │
 │   └── README.md
 │
-├── dashboards/
-│   └── simternship_digital_marketing_dashboard.pdf
+├── notebooks/
+│   ├── optimize_clicks.ipynb
+│   ├── optimize_conversion_rate.ipynb
+│   ├── optimize_profit.ipynb
+│   └── optimize_revenue.ipynb
 │
-├── assets/
-│   └── figures/
+├── outputs/
+│   └── digital_marketing_dashboard.pdf
 │
 └── README.md
 ```
@@ -89,11 +83,11 @@ Seminar-in-Digital-Marketing/
 * **Optimization/**
   Applies constraint-based optimization to determine how marketing resources should be allocated to maximize performance metrics.
 
-* **Dashboards/**
-  Contains decision-facing visual summaries used to communicate insights and results.
+* **Notebooks/**
+  Python-based optimization workflows documenting programmatic approaches to each marketing objective.
 
-* **Assets/**
-  Stores exported charts and figures used in reporting and documentation.
+* **Outputs/**
+  Contains decision-facing visual summaries used to communicate insights and results.
 
 This structure emphasizes **reproducibility, clarity, and scalability**.
 
