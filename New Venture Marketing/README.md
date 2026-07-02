@@ -15,7 +15,7 @@
 
 ## Project Overview
 
-This project applies **conjoint analysis** to support **new venture decision-making** by quantifying customer preferences across multiple product attributes. The objective is to evaluate how different feature combinations influence consumer choice and to identify configurations that maximize perceived value and market appeal.
+This project applies **consumer survey analysis** to support **new venture decision-making** for **Needly.AI**, a hypothetical AI-driven smart subscription service for household essentials. The objective was to evaluate consumer adoption intent, feature preferences, and hesitation factors across different shopper segments, and to translate those findings into product and marketing recommendations.
 
 The analysis demonstrates how **data-driven insights** can inform early-stage product design, pricing considerations, and positioning strategies for a new venture.
 
@@ -95,9 +95,14 @@ The analysis followed a structured conjoint workflow:
 
 ## Key Insights & Findings
 
-* Quantified the relative importance of key product attributes
-* Identified feature combinations most likely to drive customer preference
-* Provided data-backed recommendations to inform venture product strategy
+Analysis was conducted on **Needly.AI**, a hypothetical AI-driven smart subscription service for household essentials, using **37 survey respondents**.
+
+* **Overall interest was positive:** mean likelihood to use = **3.49/5**, likelihood to recommend = **3.46/5**
+* **Daily shoppers showed strongest adoption intent** (likelihood to use = **4.5/5**), making them the primary target segment
+* **Top appealing features:** product recommendations and automated order bundles dominated across most shopper segments
+* **#1 adoption barrier:** subscription cost, cited across all occupation and frequency groups; data & privacy concerns were the second most common hesitation (~43% of occasional shoppers)
+* **AI perception:** majority of frequent shoppers found AI-driven restocking predictions useful; skepticism was concentrated among infrequent shoppers
+* **Recommended go-to-market:** tiered/freemium pricing model + transparent data privacy messaging to address the two dominant barriers
 
 (See `Outputs/Findings.xlsx` for detailed results.)
 

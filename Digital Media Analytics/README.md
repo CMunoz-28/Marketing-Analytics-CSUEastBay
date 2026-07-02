@@ -96,11 +96,16 @@ Methods applied across these projects include:
 
 ## Key Insights & Learning Outcomes
 
-* Identified performance differences across digital channels and formats
-* Evaluated effectiveness of paid social and display advertising
-* Assessed keyword opportunities based on demand and competition
-* Applied marketing math concepts to real-world campaign scenarios
-* Strengthened ability to interpret digital metrics for strategic decisions
+**LinkedIn Campaign Assessment (Assignment 3):**
+- **237,228 total impressions**, $19,781 total spend, 4,341 clicks, 59 leads across two placements
+- LinkedIn Messages drove a **36.90% CTR** vs. LinkedIn Ads' **0.77%**, but LinkedIn Ads produced a far superior **2.95% conversion rate** (vs. 0.27%) and **lower CPA ($293.88 vs. $642.86)**
+- Reallocating the Messages budget to Ads would yield **8 additional leads** — a budget efficiency finding that directly informs channel strategy
+- Both placements fell below the **5% industry CR benchmark**, identifying a clear optimization opportunity
+
+**Across all projects:**
+- Applied marketing math to calculate CPM, CPC, CTR, CR, and CPA in real campaign scenarios
+- Evaluated keyword demand and search trend seasonality using Google Trends data
+- Assessed email campaign performance across open rates, CTR, and response metrics
 
 ---
 
