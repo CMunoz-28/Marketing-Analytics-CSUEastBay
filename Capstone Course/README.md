@@ -96,7 +96,7 @@ This project followed a structured end-to-end analytics framework:
 
 ## 📊 Live Dashboard
 
-**[Telecommunications Churn Dashboard →](https://public.tableau.com/app/profile/cmunoz/viz/TelecommunicationsChurnDashboard_17648231204080/Dashboard)**
+**[Telecommunications Churn Dashboard →](https://public.tableau.com/app/profile/cmunoz/viz/TelecommunicationChurnDashboard_17648219257350/Dashboard)**
 
 Rebuilt interactive Tableau dashboard covering:
 
@@ -144,3 +144,4 @@ Insights from this analysis can support:
 
 *This capstone project was completed for academic purposes as part of a graduate program.*
 *All analyses, datasets, and insights are intended solely for educational use and do not represent real-world business outcomes.*
+
