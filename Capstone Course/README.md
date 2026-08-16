@@ -37,8 +37,9 @@ The primary goals of this project were to:
 
 ## Data Description
 
+* **Dataset:** IBM Telco Customer Churn (via Kaggle)
 * **Data Type:** Customer-level behavioral and account data
-* **Observations:** ~7,000 customer records
+* **Observations:** 7,043 customer records
 * **Variables:** Demographics, service usage, contract attributes, billing and payment behaviors
 * **Target Variable:** Customer churn (binary outcome)
 
@@ -71,7 +72,7 @@ This project followed a structured end-to-end analytics framework:
 ### 4. Visualization & Reporting
 
 * Excel-based scenario analysis and pivot tables
-* Interactive Tableau dashboard highlighting churn trends and predictors
+* Interactive Tableau dashboard highlighting churn trends, risk segments, and predictors
 
 ---
 
@@ -79,18 +80,17 @@ This project followed a structured end-to-end analytics framework:
 
 * **Python:** Pandas, NumPy, Scikit-learn
 * **Excel:** Pivot tables, scenario modeling
-* **Tableau:** Interactive dashboards and data visualization
+* **Tableau:** Interactive dashboard with churn risk matrix, progress bar charts, and demographic breakdowns
 
 ---
 
 ## Key Insights & Findings
 
-* Customers on **month-to-month contracts** exhibited significantly higher churn rates
-* **Shorter tenure** was strongly associated with increased churn risk
-* **Electronic billing and paperless payment methods** showed distinct churn patterns
+* **Month-to-month + Fiber Optic** is the highest-risk segment — 55% churn rate, more than 18× higher than two-year contract customers
+* Customers in their **first year** churn at 47% — early tenure is the strongest behavioral signal for retention intervention
+* **Electronic check** users represent 57% of all churned customers, suggesting a billing friction point
+* **Two-year contracts** reduce churn by up to 22× regardless of internet service type
 * Logistic regression achieved an **AUC score of 0.81**, indicating strong predictive performance
-
-These findings highlight the importance of contract structure, customer tenure, and billing preferences in churn behavior.
 
 ---
 
@@ -98,15 +98,24 @@ These findings highlight the importance of contract structure, customer tenure, 
 
 **[Telecommunications Churn Dashboard →](https://public.tableau.com/app/profile/cmunoz/viz/TelecommunicationsChurnDashboard_17648231204080/Dashboard)**
 
-Interactive Tableau dashboard covering churn rate by demographics, contract type, subscribed services, payment method, and customer lifetime value — built directly from this project's analysis.
+Rebuilt interactive Tableau dashboard covering:
+
+* **6 KPI tiles** — churn rate, revenue at risk, customers at risk, avg monthly charge, total charges, avg CLV
+* **Churn Risk Matrix** — Contract Type × Internet Service heatmap identifying the highest-risk customer segments
+* **Churn Rate by Contract Type & Tenure** — progress bar charts showing churn rate within each segment
+* **Internet Service & Payment Method breakdowns** — identifying service and billing patterns among churned customers
+* **Customer Demographics** — senior citizen, partner, dependents, and paperless billing rates among churned customers
+* **Interactive filters** — Contract Type and Internet Service filters update all charts simultaneously
 
 ---
 
 ## Deliverables
 
-* Python notebooks documenting EDA and predictive modeling
-* Excel analysis files with scenario modeling and pivot tables
-* Tableau dashboard visualizing churn drivers and customer segments
+| Deliverable | Description |
+|---|---|
+| Python notebooks | EDA and logistic regression modeling |
+| Excel analysis files | Scenario modeling and pivot tables |
+| Tableau dashboard | Interactive churn risk visualization |
 
 ---
 
@@ -114,16 +123,15 @@ Interactive Tableau dashboard covering churn rate by demographics, contract type
 
 Insights from this analysis can support:
 
-* Targeted retention campaigns for high-risk customer segments
-* Incentive strategies to transition customers from month-to-month to longer contracts
-* Personalized onboarding and engagement strategies for early-tenure customers
-* Data-driven decision-making for customer lifecycle management
+* Targeted retention campaigns for month-to-month fiber optic subscribers — the highest-risk segment
+* Incentive strategies to transition customers from month-to-month to annual or two-year contracts
+* Personalized onboarding for early-tenure customers (0–12 months) to reduce first-year churn
+* Payment method interventions for electronic check users to reduce billing-related churn
+* Data-driven prioritization of retention spend toward highest-CLV at-risk customers
 
 ---
 
 ## Future Improvements
-
-Potential enhancements include:
 
 * Incorporating additional behavioral or interaction data
 * Testing alternative machine learning models (e.g., random forest, gradient boosting)
