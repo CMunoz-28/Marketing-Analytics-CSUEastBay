@@ -22,7 +22,7 @@ The work reflects an **end-to-end marketing analyst workflow**, from data prepar
 ### [Capstone — Customer Churn Prediction](./Capstone%20Course)
 Built a logistic regression model on ~7,000 customer records to predict churn, achieving an **AUC of 0.81**. Identified contract type, tenure, and billing behavior as primary churn drivers. Delivered Python notebooks, Excel scenario analysis, and an interactive Tableau dashboard.
 
-**[View Live Dashboard →](https://public.tableau.com/app/profile/cmunoz/viz/TelecommunicationsChurnDashboard_17648231204080/Dashboard)**
+**[View Live Dashboard →](https://public.tableau.com/app/profile/cmunoz/viz/TelecommunicationChurnDashboard_17648219257350/Dashboard)**
 
 ---
 
