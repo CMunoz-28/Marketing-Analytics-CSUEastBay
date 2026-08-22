@@ -27,7 +27,7 @@ Buhi Supply Co. ran 11 campaigns across four channels — Display, Paid Search, 
 
 ![Buhi Digital Marketing Dashboard](dashboard-preview.png)
 
-**[View Live Dashboard on Tableau Public →](#)**
+**[View Live Dashboard on Tableau Public →](https://public.tableau.com/app/profile/cmunoz/viz/BUHISupplyCo_Dashboard/Dashboard)**
 
 ---
 
