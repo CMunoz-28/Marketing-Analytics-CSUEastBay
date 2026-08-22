@@ -96,6 +96,8 @@ This project followed a structured end-to-end analytics framework:
 
 ## 📊 Live Dashboard
 
+![Telecommunications Churn Dashboard](Tableau%20/dashboard-preview.png)
+
 **[Telecommunications Churn Dashboard →](https://public.tableau.com/app/profile/cmunoz/viz/TelecommunicationChurnDashboard_17648219257350/Dashboard)**
 
 Rebuilt interactive Tableau dashboard covering:
